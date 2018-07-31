@@ -42,7 +42,6 @@ sudo dd bs=4M if=/path/to/antergos-x86_64.iso of=/dev/sdX status=progress && syn
  - [.rpm - openSUSE, Fedora](http://software.opensuse.org/package/imagewriter?search_term=imagewriter)
 
 ## 在 Windows 下创建 Live USB
-USBWriter, Etcher and Rufus are free USB image writers that support .iso files (which Antergos uses) with ease. Just head to the Source Forge link for USBWriter for Windows or the Etcher link below and download the program. Once downloaded, follow the similar instructions for them below:
 `USBWriter`，`Etcher`，以及`Rufus`都是免费易用的支持`.iso`文件（即`Antergos`的镜像格式）的`USB`镜像烧写工具。从下面对应的链接即可下载到这些软件。下载完后，就可以按照本文的简单步骤烧写镜像了。
 ![](https://rufus.akeo.ie/pics/rufus_en_2x.png)
 
