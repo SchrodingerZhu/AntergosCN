@@ -60,7 +60,7 @@ Easily install Antergos with our Multilingual Live Medium which includes our eas
 > 如果你不熟悉`Arch Linux`衍生版的安装镜像，我们强烈推荐您阅读这一篇`Wiki`来确保您顺利安装`Antergos`。
 
 [英文版](https://antergos.com/wiki/article/create-a-working-live-usb/)
-（中文版待翻译，近期完成）
+[中文版](https://github.com/SchrodingerZhu/AntergosCN/blob/master/LiveUSB.md)
 
 
 
