@@ -59,10 +59,22 @@ Easily install Antergos with our Multilingual Live Medium which includes our eas
 我们建议的安装方式是制作一个`USB`启动盘，你可以从下方的`Wiki`链接中得到详细的指导。
 > 如果你不熟悉`Arch Linux`衍生版的安装镜像，我们强烈推荐您阅读这一篇`Wiki`来确保您顺利安装`Antergos`。
 
-[英文版](https://antergos.com/wiki/article/create-a-working-live-usb/)
-[中文版](https://github.com/SchrodingerZhu/AntergosCN/blob/master/LiveUSB.md)
+- [英文版](https://antergos.com/wiki/article/create-a-working-live-usb/)
+- [中文版](https://github.com/SchrodingerZhu/AntergosCN/blob/master/LiveUSB.md)
+
+### 关于测试镜像
+我们会时不时地生成一些用于开发以及测试地镜像，这些镜像将会包含最新地软件包以及`Cnchi`安装器。你可以随时通过[这个链接][2]来查看这些最新进展。需要注意的是，这些镜像不应用于生产力环境因为其中的软件包还在活跃的开发状态中，难免会出现破损等问题。
+
+### 社区版
+`Antergos`的拥有一些非官方的社区版，点击[此链接][3]了解更多！
 
 
+### 打赏`Antergos`主站
+如果每位下载`Antergos`的用户捐赠 $ \$2 $，那么将会极大地帮助到我们的全时开发和维护。所以请协助我们为`Antergos`打造繁盛的生态环境吧！
+如果你想成为`Antergos`的合作伙伴，请通过[这个链接][4]联系我们！
 
 
   [1]: https://s1.ax1x.com/2018/07/31/PdoQ3t.png
+  [2]: https://build.antergos.com/
+  [3]: http://antergoscommunityeditions.wordpress.com/
+  [4]: https://antergos.com/contact-us
