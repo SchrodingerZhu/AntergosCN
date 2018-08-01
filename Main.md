@@ -26,6 +26,10 @@
 `Antergos`支持多种语言，包括西班牙语，加利西亚语，加泰罗尼亚语，英语，德语等等。在`Live`图形安装环境中我们就准备好了多语言支持，尽情使用吧！
 >Antergos is available in many languages including Spanish, Galician, Catalan, English, German, and more.
 Easily install Antergos with our Multilingual Live Medium which includes our easy-to-use graphical installer. 
+### 有爱的社区（Helpful Community）
+`Antergos`社区有着来自不同经验等级的友好用户群体。如果你遇到了麻烦或是想要提出某个问题，社区会很热心地提供帮助。
+
+> The Antergos community is a friendly bunch of users with a wide range of experience levels. If you encounter any problems or just have a question, our community is always  happy to help.
 
 ## 下载页
 `Antergos`向所有人免费开放使用。你可以随意下载和制作副本。准备好了？下载这个`iso`镜像，刻录到`CD/DVD`或是写入一个`USB`设备，然后就可以享受“惬意的”的安装和使用过程了。
