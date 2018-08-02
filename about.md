@@ -5,7 +5,9 @@
 > The purpose of Antergos is to provide a modern, elegant, and powerful operating system based on one of the best Linux distributions available, Arch Linux. Users need not be linux experts nor developers in order to use Antergos. From long-time linux users to linux users of only a few months, Antergos is for everyone.
 
 ![Cinnarch](https://antergos.com/wp-content/uploads/2014/05/Sin-nombre.png)
+
 ![Logo][1]
+
 `Antergos`项目起源于`Cinnarch`，只提供桌面环境。如今，`Antergos`提供了多种桌面环境供用户在安装时选择。
 > The Antergos Project was originally started under the name Cinnarch, and provided only one desktop environment. Today, Antergos supports multiple desktops allowing users to select their favorite during installation.
 
