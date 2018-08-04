@@ -1,14 +1,14 @@
 # 关于
 
 ## Antergos
-`Antergos`的诞生意义在于以`Arch Linux`（最好的`Linux`发行版之一）为基础，创造一款现代、优雅并且功能强大的操作系统。用户不必是`Linux`专家，也不须是开发者。从新手到老司机，总有适合你的`Antergos`食用方式！    
+`Antergos`的诞生意义在于以`Arch Linux`（最好的`Linux`发行版之一）为基础，打造一款现代、优雅并且功能强大的操作系统。用户不必是`Linux`专家，也不须是开发者。从新手到老司机，总有适合你的`Antergos`食用方式！    
 > The purpose of Antergos is to provide a modern, elegant, and powerful operating system based on one of the best Linux distributions available, Arch Linux. Users need not be linux experts nor developers in order to use Antergos. From long-time linux users to linux users of only a few months, Antergos is for everyone.
 
 ![Cinnarch](https://antergos.com/wp-content/uploads/2014/05/Sin-nombre.png)
 
 ![Logo][1]
 
-`Antergos`项目起源于`Cinnarch`，只提供桌面环境。如今，`Antergos`提供了多种桌面环境供用户在安装时选择。
+`Antergos`项目起源于`Cinnarch`，专注于桌面环境。如今，`Antergos`提供了多种桌面环境供用户在安装时选择。
 > The Antergos Project was originally started under the name Cinnarch, and provided only one desktop environment. Today, Antergos supports multiple desktops allowing users to select their favorite during installation.
 
 ## Antergos CN
